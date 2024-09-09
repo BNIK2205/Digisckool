@@ -11,7 +11,7 @@ const Notifications = () => {
       date: '2024-09-08',
       read: false,
     },
-    {
+    { 
       id: 2,
       type: 'fee',
       message: 'Your school fee for the month of September is due.',
